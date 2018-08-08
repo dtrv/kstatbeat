@@ -1,0 +1,7 @@
+################### Kstatbeat Configuration Example #########################
+
+############################# Kstatbeat ######################################
+
+kstatbeat:
+  # Defines how often an event is sent to the output
+  period: 1s

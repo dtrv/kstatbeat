@@ -1,0 +1,5 @@
+= Kstatbeat Docs
+
+Welcome to the Kstatbeat documentation.
+
+

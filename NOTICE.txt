@@ -1,0 +1,5 @@
+kstatbeat
+Copyright 2017 Thomas Verchow
+
+This product includes software developed by The Apache Software
+Foundation (http://www.apache.org/).
